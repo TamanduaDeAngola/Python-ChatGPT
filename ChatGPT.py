@@ -19,4 +19,4 @@ while 1:
         system("clear")
         continue
     
-    ChatGPT(orgcode='org-8jvFAZpnYV5WiDH2gwQAVNAf', api_key='[your api key here]', model="gpt-3.5-turbo", question=question)
+    ChatGPT(orgcode='org-8jvFAZpnYV5WiDH2gwQAVNAf', api_key='[your api key here]', question=question)
