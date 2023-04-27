@@ -1,4 +1,4 @@
-import openai
+import openai # pip3 install openai
 from os import system
 
 class ChatGPT:
