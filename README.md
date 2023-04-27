@@ -7,3 +7,6 @@ a simple chatgpt client using python 3.
 pip3 install openai
 ```
 ![pic of the client working](assets/img1.png)
+
+## Important
+To be able to run the code, you will have to edit this and place your api key on the field "your api key here".
