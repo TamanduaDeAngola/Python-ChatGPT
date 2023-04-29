@@ -9,4 +9,4 @@ pip3 install openai
 ![pic of the client working](assets/img1.png)
 
 ## Important
-To be able to run the code, you will have to edit that and place your own API key on the field *"[your api key here]"* on the line 23. You can get a api key on the oficial site of OpenAI 
+To be able to run the code, you will have to edit that and place your own API key on the field *"[your api key here]"* on the line 23. You can get a api key on the oficial page of OpenAI 
