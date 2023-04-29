@@ -1,5 +1,5 @@
 # Python-ChatGPT
-a simple CHATGPT cli client using python 3.
+a simple ChatGPT cli client using python 3.
 
 ## Requirements
 #### To be runned, this code needs the version 3 of Python and the lib _"openai"_ installed. To install that, just run:
