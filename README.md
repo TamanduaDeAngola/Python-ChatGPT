@@ -1,5 +1,5 @@
-# Python-ChatGPT
-a simple ChatGPT CLI client using python 3. Legacy code
+# Python-ChatGPT[ Legacy code ]
+a simple ChatGPT CLI client using python 3.
 
 ## Requirements
 #### To be runned, this code needs the version 3 of Python and the lib _"openai"_ installed. To install that, just run:
